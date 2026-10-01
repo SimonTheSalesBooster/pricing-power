@@ -1,39 +1,36 @@
 # Pricing Power: Strategy Sprints (our own chart)
 
-Our client: founder/CEO of a B2B software, consulting or financial-services company, hiring salespeople right now.
-The problem sentences come from our 5D Client Map, written in the words founders use with us.
+The problem sentences are what our clients actually say to us on calls. The "Unverified" line shows what we are still confirming, call by call.
 
-| | PROBLEM (their words) | IMPACT (what it costs) | SOURCE (what really causes it) |
+Client: owner of a small B2B company (finance, technology, professional services), responsible for sales growth, hiring salespeople, disciplined and athletic (Strava or similar). Weak pipeline, missing the sales goals, sales isn't fun.
+
+|   | PROBLEM (their words) | IMPACT | SOURCE |
 |---|---|---|---|
-| **A** | "I'm still the only one who closes." | Growth capped by one calendar. Evenings and weekends gone. The company can't grow without the founder in every deal. | No repeatable process a new hire can run without them. The sale lives in the founder's head. |
-| **B** | "Deals go quiet after the proposal." | A full-looking pipeline that doesn't close. Wrong forecasts. Chasing, discounting, begging. | Right things in the wrong order. The proposal goes out before the buyer has named the cost of doing nothing and a starting date. Nobody is in control of the conversation. |
-| **C** | "My new sales hires don't perform." | Months of salary with nothing to show. The founder steps back in and becomes the only closer again (see A). | The hire gets a pitch deck, not a process. No weekly rhythm to measure, learn and adjust. No spotter pushing them through their sales wall. |
+| A | "I need more leads, but I don't have time for marketing." | Annual target not hit yet, and they're worried they won't hit it at all. "I don't have time to work on the sales process, just in it." New hires have nobody to call. Sales isn't fun. | Nothing produces leads without the owner's time. Marketing and prospecting run on their calendar, so when they're closing, the pipeline dries up. |
+| B | "It takes many meetings to close. We get ghosted." | Cost of sale going up, in money and emotionally. Many meetings per deal, deals delayed, deals dying at 95%. The target slips further. | Right things in the wrong order. The proposal goes out before the buyer has said what doing nothing costs and committed to a starting date. Nobody is in control of the conversation. |
+| C | "We're not landing deals in the size we want." | Same effort for smaller deals, so more deals are needed for a target that's already slipping. Price pressure and discounting. | Price before value. The buyer never puts a number on what the problem costs, so the price looks big and the deal shrinks. |
 
-## Can we fix the source?
-
-- A → yes: the 8 Steps of the Repeatable Sale, installed in the 90-Day Sales Acceleration.
-- B → yes: the 8 Steps, in order (Step 4 Cost of Inaction and Step 7 Starting Date before Step 8 Statement of Work).
-- C → yes: the 8 Steps + Monday Strategy / Friday Learnings + spotters (200K Club, Team Coaching).
+Can we fix the source?  A → 90-Day Sales Acceleration installs the AI-powered marketing + prospecting processes that run without the owner's calendar.  B → the 8 Steps of the Repeatable Sale, in order (Step 4 Cost of Inaction and Step 7 Starting Date before Step 8 Statement of Work).  C → 8 Steps: Step 4 Cost of Inaction before Step 6 Investment (pricing power).
+Unverified (🔍): source column of B and C is our read, confirm it on calls. Impact of C inferred from A and B, not yet heard from a client.
 
 ## The 9 questions
 
-**A. "I'm the only one who closes"**
-1. What's the frustration with how deals close today? What have you tried?
-2. What happens to the company if you're still in every deal 12 months from now?
-3. If a new hire ran your last big deal, which step would they not know how to do?
+**A. "I need more leads, but I don't have time for marketing."**
+- A1 (problem): Where do your leads come from today? What have you tried to get more?
+- A2 (impact): Where are you against this year's target? What happens if the pipeline looks the same in 3 months?
+- A3 (source): When you get busy closing, what happens to your marketing and prospecting?
 
-**B. "Deals go quiet"**
-1. Walk me through the last deal that went quiet. Where did it stop?
-2. What does a pipeline that doesn't close cost you this quarter?
-3. Before you sent that proposal, had the buyer told you what happens if they do nothing?
+**B. "It takes many meetings to close. We get ghosted."**
+- B1 (problem): Walk me through the last deal that went quiet. Where did it stop?
+- B2 (impact): How many meetings does a deal take now? What does that cost you, in money and in energy?
+- B3 (source): Before you sent that proposal, had the buyer told you what happens if they do nothing?
 
-**C. "New hires don't perform"**
-1. What did you hope the new hire would take off your plate?
-2. What has it cost so far, in money and in your own time?
-3. What did they get on day one: a deck, or a process they can run?
+**C. "We're not landing deals in the size we want."**
+- C1 (problem): What size did you want your last deal to be, and what did you land?
+- C2 (impact): How many more deals at today's size do you need to hit the target?
+- C3 (source): When you named the price, did the buyer already know what the problem costs them?
 
 ## Test log
-
 | Date | Call | A | B | C | Their sentence |
 |---|---|---|---|---|---|
 | | | | | | |

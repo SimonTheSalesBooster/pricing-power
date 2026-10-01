@@ -1,19 +1,28 @@
 # Pricing Power
 
-**Win bigger deals at the price you want. Start with the problem, not the price.**
-A free Claude Code skill (and a one-page method) for B2B founders who want to lead the sales conversation instead of chasing it.
+**Win bigger deals at the price you want.**
 
-Three problems. Three columns. Nine questions. About 20 minutes. 🐬
-
-You know the call. The buyer is friendly, nods along, asks for a proposal.
-Then nothing.
-
-It usually isn't the price. The buyer never said out loud what the problem costs them, or where it really comes from. So there was nothing pulling them to a yes.
-
-Buyers don't buy your product. They buy their way out of a problem.
 A buyer who has put a number on the problem compares your price to that number. Not to your competitors. That's pricing power. 🐯
 
-Know the 3 problems you solve better than anyone, down to the source, and every call gets calmer. You ask. They talk. They name the cost themselves. Your price stops looking big, and you're in control from the first minute.
+This is a free Claude Code skill (plus a one-page method) that gets your buyers to that number, in their own words. Built for B2B founders who close deals themselves and want to lead the sales conversation instead of chasing it.
+
+Three problems. Three columns. Nine questions. About 20 minutes. Two commands to install. 🐬
+
+You know the call. The buyer is friendly, nods along, asks for a proposal.
+Then nothing. The thread goes quiet, then stale.
+
+It usually isn't the price. The buyer never said out loud what the problem costs them. So nothing pulled them to a yes, and the old playbook says: chase. Or discount.
+
+Founders tell us the same three things, over and over:
+- "I need more leads, but I don't have time for marketing."
+- "It takes many meetings to close. We get ghosted."
+- "We're not landing deals in the size we want."
+
+Those three sit in column 1 of our own chart (it's in the repo). Pricing Power takes each one down to what it costs and where it really comes from.
+
+Know your 3 problems that deep and every call feels calmer. You ask. They talk. They name the cost themselves. Your price stops looking big. Next to the number they just said out loud, it's easy to swallow. You're in control from the first minute.. no begging, no chasing. 🌴
+
+And it's on paper, not only in your head. Your new sales hire can run the same 9 questions on their first call.
 
 ---
 
