@@ -2,6 +2,8 @@
 
 **Win bigger deals at the price you want.**
 
+📄 **Printable version:** get the 2-page Pricing Power Chart (blank chart + our own filled-in example) as a free PDF at https://www.strategysprints.com/pricing-power-chart
+
 A buyer who has put a number on the problem compares your price to that number. Not to your competitors. That's pricing power. 🐯
 
 This is a free Claude Code skill (plus a one-page method) that gets your buyers to that number, in their own words. Built for B2B founders who close deals themselves and want to lead the sales conversation instead of chasing it.
